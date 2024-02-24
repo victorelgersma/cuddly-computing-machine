@@ -1,0 +1,3 @@
+[submodule "albenasite/hugo-coder"]
+	path = albenasite/hugo-coder
+	url = git@github.com:luizdepra/hugo-coder.git

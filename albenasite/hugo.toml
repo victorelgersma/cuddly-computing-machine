@@ -53,3 +53,7 @@ style = "github-dark"
   name = "About"
   weight = 3
   url = "about/"
+[[menu.main]]
+  name = "Articles & Book Chapters"
+  weight = 4
+  url = "articles_and_book_chapters"

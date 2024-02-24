@@ -10333,7 +10333,7 @@ readers do not read off random characters that represent icons */
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%; }
+  font-size: 55%; }
 
 body {
   color: #212121;

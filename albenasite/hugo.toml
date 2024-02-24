@@ -55,3 +55,11 @@ style = "github-dark"
   name = "Articles & Book Chapters"
   weight = 4
   url = "articles_and_book_chapters"
+[[menu.main]]
+  name = "Research Overview"
+  weight = 5
+  url = "research"
+[[menu.main]]
+  name = "Opeds"
+  weight = 6
+  url = "opeds/"

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Albena Azmanova</title>
+    <link>https://azmanov.github.io/albena_site_clone/books/</link>
+    <description>Recent content in Books on Albena Azmanova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://azmanov.github.io/albena_site_clone/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capitalism, democracy, socialism</title>
+      <link>https://azmanov.github.io/albena_site_clone/books/capitalism_democracy_socialism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://azmanov.github.io/albena_site_clone/books/capitalism_democracy_socialism/</guid>
+      <description>This book, collectively authored by members of the Research Committee on Socialism, Capitalism and Democracy (part of the International Political Science Association) critically analyzes the current historical conjuncture with an eye to its emergent alternatives.&#xA;Table of Contents:&#xA;Introduction: “Democracy, Capitalism, Socialism, or none of the above – deciphering history’s tremors.” Albena Azmanova and James Chamberlain&#xA;1/ “Capitalism and Democracy: Complementarity, Complicity, Conflict, Compatibility.” Brian Milstein&#xA;2/ “Privatization and the Governance of the Commons.</description>
+    </item>
+  </channel>
+</rss>

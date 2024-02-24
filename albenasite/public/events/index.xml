@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Albena Azmanova</title>
+    <link>https://azmanov.github.io/albena_site_clone/events/</link>
+    <description>Recent content in Events on Albena Azmanova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Nov 2023 21:54:39 +0000</lastBuildDate>
+    <atom:link href="https://azmanov.github.io/albena_site_clone/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le social dans quel etat?</title>
+      <link>https://azmanov.github.io/albena_site_clone/events/le_social_dans_quel_etat/</link>
+      <pubDate>Sat, 25 Nov 2023 21:54:39 +0000</pubDate>
+      <guid>https://azmanov.github.io/albena_site_clone/events/le_social_dans_quel_etat/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

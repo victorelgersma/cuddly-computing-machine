@@ -8,14 +8,7 @@
     ·
     {{ with .Site.Params.author }} {{ . }} {{ end }}
     ·
-    Professor of Political and Social Science, City University, London
+    Professor of Political and Social Science, <a href="https://www.city.ac.uk/">City University of London</a>.
     
-    {{ if (and .Site.Params.license) }}
-      {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
-    ·
-    {{ end }}
-    {{ if (and .Site.Params.commit .GitInfo) }}
-      [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
-    {{ end }}
   </section>
 </footer>

@@ -13,18 +13,16 @@ style = "github-dark"
 
 [params]
   author = "Albena Azmanova"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  info = "Critical Interventions on Politcs and Society"
+  description = "Albena Azmanova's website"
+  keywords = "portfolio,academic,blog"
+#  avatarurl = "images/avatar.jpg"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
-
+  since = 2020
   enableTwemoji = true
 
   colorScheme = "auto"
